@@ -1,6 +1,4 @@
-# 💫 About Me:
-   
-  ### **Hi 👋, I'm Palgun Bharadwaj S**
+   ### **Hi 👋, I'm Palgun Bharadwaj S**
 
 #### AIML 26' | Cyber Security Enthusiast | R | ML
 
