@@ -1,6 +1,9 @@
 # 💫 About Me:
-                                    **Hi 👋, I'm Palgun Bharadwaj S**
-                             **AIML 26' | Cyber Security Enthusiast | R | ML**
+   
+  ### **Hi 👋, I'm Palgun Bharadwaj S**
+
+#### AIML 26' | Cyber Security Enthusiast | R | ML
+
 
 
 ### **About Me 🧑‍💻🚀**
@@ -8,7 +11,6 @@
 * 🌱 Learning and exploring to become a future-ready **AI/ML Engineer**
 * 🐍📊 Currently gaining experience in **Python**, **R programming**, **Cybersecurity**, and **Generative AI**
 * 🤖 Passionate about building intelligent systems that can **think, learn, and act**
-* 🎯 Worked on a **real-time Weapon Detection** project using **OpenCV** and **deep learning**
 * 🧠⚙️ Strong interest in **Agentic AI**, smart automation, and solving **real-world problems**
 * 📚 Always open to learning from **challenges**, **projects**, and **innovative environments**
 
