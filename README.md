@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 About Me:**
                                      Hi 👋, I'm Palgun Bharadwaj S
-                              AIML 26' | Cyber Security Enthusiast | R | ML
+                              AIML 26' | Cyber Security Enthusiast | R | ML**
 
 
 ## 🌐 Socials:
@@ -19,4 +19,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=palgunbharadwaj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
